@@ -1,7 +1,7 @@
 ## 🕹️ Retro BASIC Web Interpreter     
 Un intérprete de lenguaje BASIC clásico moderno y ligero que se ejecuta completamente en el navegador. Este proyecto recrea la experiencia de programación de los ordenadores de 8 bits con una interfaz retro, soporte para gráficos y sintaxis extendida.    
 
-![interprete](interprete.PNG)
+![interprete](interprete.png)
 
 ## ✨ Características  
 Sin dependencias:  
