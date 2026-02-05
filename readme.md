@@ -69,12 +69,12 @@ Aquí tienes un pequeño programa para generar arte generativo simple:
 70 NEXT I  
 80 PRINT "FINALIZADO" 
 
-**🛠️ Tecnologías**
-HTML5 Canvas: Para el renderizado gráfico.    
+**🛠️ Tecnologías**  
+HTML5 Canvas: Para el renderizado gráfico.      
 JavaScript (ES6+): Lógica del intérprete (lexer, parser y ejecución asíncrona).  
 Tailwind CSS: Para el diseño de la interfaz de usuario.  
 
-**📄 Licencia** 
+**📄 Licencia**   
 este proyecto está bajo la Licencia GPL3  
   
 **Autor:**  
